@@ -53,3 +53,9 @@ global network.
 *7. Key Learnings*
 
 “Through this project, I gained strong hands-on experience in Power BI dashboard development, DAX calculations, data modeling, and handling large survey datasets. I also improved my understanding of business reporting requirements, stakeholder communication, performance optimization, and implementing secure reporting solutions using row-level security.”
+
+### Screenshots 
+
+Show what the dashboard looks like
+
+Example: ![Dashboard Preview](https://github.com/rishavanalyst07/Client-Satisfaction-Analytics/blob/b5a60fc877903af59e33cc82dad89596c5aa76f2/Client%20Satisfaction%20Analytics%20Dashboard.png).
