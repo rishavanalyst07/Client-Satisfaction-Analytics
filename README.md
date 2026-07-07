@@ -2,7 +2,7 @@
 
 *Project Overview / Problem Statement*
 
-“The project was called the Client Satisfaction Analytics Dashboard. The main objective was to analyze client feedback collected through Feedback Forms across different Companies globally. The business wanted a centralized dashboard to monitor client satisfaction, compare agency performance, identify low-performing regions, and support leadership in making data-driven decisions.”
+“The project was called the Client Satisfaction Analytics Dashboard. The main objective was to analyze client feedback collected through Feedback Forms across different Companies globally. The business wanted a centralized dashboard to monitor client satisfaction, compare companies performance, identify low-performing regions, and support leadership in making data-driven decisions.”
 
 *2. Your Role and Contribution*
 
@@ -43,7 +43,7 @@ long-term client relationships.
 •Supported comparison of service quality across People, Delivery, Services, and Strategy to identify which service areas consistently
 scored low.
 
-•Provided a consistent, drill-down view from region → sub-region → country → agency → client, improving transparency across the
+•Provided a consistent, drill-down view from region → sub-region → country → Companies → client, improving transparency across the
 global network.
 
 *6. Impact and Results*
