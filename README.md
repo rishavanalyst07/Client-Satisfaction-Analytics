@@ -52,7 +52,7 @@ global network.
 
 *7. Key Learnings*
 
-“Through this project, I gained strong hands-on experience in Power BI dashboard development, DAX calculations, data modeling, and handling large survey datasets. I also improved my understanding of business reporting requirements, stakeholder communication, performance optimization, and implementing secure reporting solutions using row-level security.”
+“Through this project, I gained strong hands-on experience in Power BI dashboard development, DAX calculations, data modeling, and handling large Feedback datasets. I also improved my understanding of business reporting requirements, stakeholder communication, performance optimization, and implementing secure reporting solutions using row-level security.”
 
 ### Screenshots 
 
